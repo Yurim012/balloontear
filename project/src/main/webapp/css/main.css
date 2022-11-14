@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+
+ body {
+    padding: 30px;
+	 font-family: 'Comfortaa', cursive;
+   font-family: 'Gowun Dodum', sans-serif;
+   font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+
+.Atitle {
+	text-decoration-line: none;
+
+}
+
+	a:link {
+	  color : black;
+	}
+	a:visited {
+	  color : black;
+	}
+	a:hover {
+	  color : rgb(255, 128, 0); 
+	}
+	
+#pointcard {
+	border: 1px solid #ccc!important;
+	
+	border-radius: 16px;
+	box-sizing: inherit;
+	margin-left: auto; margin-right: auto; 
+	
+}
+
+img{
+	border-radius: 16px;
+	
+}
+
+#homeTitle{
+   font-family: 'Comfortaa', cursive;
+   font-family: 'Gowun Dodum', sans-serif;
+   font-family: 'IBM Plex Sans KR', sans-serif;
+   font-weight: bolder;
+   
+}
+
+
+#volBoard{
+	padding: 10px;
+	margin: 50px;
+}
+
+
+.chamImg{
+ 	margin-bottom : 10px;
+    border-radius: 70%;
+    overflow: hidden;
+}
+
+
+.cham{
+	margin-top: 18px;
+}
+
+.volApply{
+	padding: 10px;
+	margin: 50px;
+}
+
+
+.mygame{
+
+	margin: 10;
+	margin-left: 40px;
+	margin-top: 20px;
+}
+
+
+
+#progress {
+    appearance: none;
+}
+#progress::-webkit-progress-bar {
+    background:#f0f0f0;
+    border-radius:10px;
+    box-shadow: inset 3px 3px 10px #ccc;
+    width: 200px;
+}
+#progress::-webkit-progress-value {
+    border-radius:10px;
+    background: #1D976C;
+    background: -webkit-linear-gradient(to right, #e6ee9c, #ffb74d);
+    background: linear-gradient(to right, #e6ee9c, #ffb74d);
+
+}
+
+

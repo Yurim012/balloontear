@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+
+
+#colBoard{
+	border: 1px solid #ccc!important;
+	padding: 0.01em 16px;
+	border-radius: 16px;
+	box-sizing: inherit;
+	margin-left: auto; margin-right: auto;
+	
+}
+#colPoint{
+	border: 1px solid #ccc!important;
+	padding: 0.01em 16px;
+	border-radius: 16px;
+	box-sizing: inherit;
+	margin-left: auto; margin-right: auto;
+
+}
+#colMyPage{
+	border: 1px solid #ccc!important;
+	padding: 0.01em 16px;
+	border-radius: 16px;
+	box-sizing: inherit;
+	margin-left: auto; margin-right: auto; 
+	
+}
+#colInfo{
+	border: 1px solid #ccc!important;
+	padding: 0.01em 16px;
+	border-radius: 16px;
+	box-sizing: inherit;
+	text-align: center;
+	
+}

@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+
+ body {
+    padding: 30px;
+	 font-family: 'Comfortaa', cursive;
+   font-family: 'Gowun Dodum', sans-serif;
+   font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+
+.Atitle {
+	text-decoration-line: none;
+
+}
+
+	a:link {
+	  color : black;
+	}
+	a:visited {
+	  color : black;
+	}
+	a:hover {
+	  color : rgb(255, 128, 0); 
+	}
+	
+#pointcard {
+	border: 1px solid #ccc!important;
+	
+	border-radius: 16px;
+	box-sizing: inherit;
+	margin-left: auto; margin-right: auto; 
+	
+}
+
+img{
+	border-radius: 16px;
+	
+}
+
+
+
+
+
+#homeTitle{
+   font-family: 'Comfortaa', cursive;
+   font-family: 'Gowun Dodum', sans-serif;
+   font-family: 'IBM Plex Sans KR', sans-serif;
+   font-weight: bolder;
+   
+}
